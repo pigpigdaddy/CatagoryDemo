@@ -10,4 +10,9 @@
 
 @implementation BaseObject (LogOne)
 
+- (void)logOneInfo
+{
+    NSLog(@"logOneInfo->BaseObject+LogOne");
+}
+
 @end

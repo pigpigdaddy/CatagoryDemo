@@ -10,4 +10,6 @@
 
 @interface BaseObject (LogOne)
 
+- (void)logOneInfo;
+
 @end

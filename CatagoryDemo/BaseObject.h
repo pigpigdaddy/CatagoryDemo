@@ -10,4 +10,6 @@
 
 @interface BaseObject : NSObject
 
+- (void)logInfo;
+
 @end

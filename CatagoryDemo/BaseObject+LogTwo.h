@@ -10,4 +10,6 @@
 
 @interface BaseObject (LogTwo)
 
+- (void)logTwoInfo;
+
 @end
